@@ -4,6 +4,7 @@ export default defineConfig({
   title: '择业调研与雇主背调',
   description: '南京泛成外贸销售岗位择业调研与雇主背调报告',
   lang: 'zh-CN',
+  base: '/fancheng-career-due-diligence/',
   cleanUrls: true,
   themeConfig: {
     nav: [

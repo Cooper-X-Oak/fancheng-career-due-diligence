@@ -6,6 +6,7 @@ export default defineConfig({
   lang: 'zh-CN',
   base: '/fancheng-career-due-diligence/',
   cleanUrls: true,
+  appearance: false,
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
